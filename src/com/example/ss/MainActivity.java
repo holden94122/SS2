@@ -18,6 +18,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import android.app.Activity;
+
 public class MainActivity extends FragmentActivity {
 
     /**
